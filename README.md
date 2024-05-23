@@ -1,7 +1,7 @@
 ### LUNG CANCER PREDICTION
 - Đây là dự án cuối kỳ môn khai phá dữ liệu.
 - Model sử dụng: vgg16.
-- 4 thuật toán phân loại: k-means, Hierarchical Clustering, DBSCAN, Grid-bases.
+- 4 thuật toán phân cụm: k-means, Hierarchical Clustering, DBSCAN, Grid-bases.
 - Giao diện: streamlit.
 - Để chạy ứng dụng:
     * pip install -r requirements.txt
